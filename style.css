@@ -137,7 +137,7 @@ marquee{
 .menu ul li{
     display: block;
     float: none;
-    padding-top: 20px;
+    padding-top: 30px;
 }
 #chk:checked ~ .menu{
     top: 0;
